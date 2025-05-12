@@ -1,3 +1,4 @@
 # Task
-# Managemnet
-#Application
+Management 
+Application
+
